@@ -1,8 +1,37 @@
-# Getting Started with Create React App
+# Getting Started with She's Safe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+She's safe is a  platform that empowers individuals to make informed decisions about their safety by sharing real stories, accessing predictive crime data, and connecting with their community. 
 
-## Available Scripts
+# User Journey:
+Mass awareness of She's safe and how it works.
+
+A website that contains all information about she's safe, and the processes involved to ensure the safety of  you and your loved ones.
+
+## Website Home Page
+
+![Alt text](readme.mages/1.PNG)
+
+## Features
+ 
+ ![Alt text](readme.mages/2.png)
+![Alt text](readme.mages/3.PNG)
+
+## Blog
+Here people can read stories shared by victims and can learn a thing or two from their situations.
+![Alt text](readme.mages/4.png)
+
+# so, how do we collect this data, through a ussd, people can share their stories and also receive real crime data updates.
+
+## User journey for persona sharing their story
+![Alt text](readme.mages/user1.png)
+
+![Alt text](readme.mages/user2.png)
+
+## User journey for a persona requesting real time data of an area they want to visit
+![Alt text](readme.mages/user3.png)
+
+### link to the ussd code [SHE'S SAFE USSD](https://github.com/Kazenzi/Be-safe)
+## Available Scripts to run the website
 
 In the project directory, you can run:
 
