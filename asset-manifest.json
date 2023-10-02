@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Esther-Kamau/Shes-Safe/static/css/main.ec8f0e9d.css",
+    "main.js": "/Esther-Kamau/Shes-Safe/static/js/main.034dbf65.js",
+    "static/media/shessafe.png": "/Esther-Kamau/Shes-Safe/static/media/shessafe.cf1653a34e509469679e.png",
+    "index.html": "/Esther-Kamau/Shes-Safe/index.html",
+    "main.ec8f0e9d.css.map": "/Esther-Kamau/Shes-Safe/static/css/main.ec8f0e9d.css.map",
+    "main.034dbf65.js.map": "/Esther-Kamau/Shes-Safe/static/js/main.034dbf65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8f0e9d.css",
+    "static/js/main.034dbf65.js"
+  ]
+}
