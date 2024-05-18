@@ -1,3 +1,14 @@
+Archived milestoones
+Developed the website 
+Developed the ussd (offline)
+
+What Next 
+user testing 
+official  launch 
+make Nairobi safer 
+
+
+
 # Getting Started with She's Safe
 
 She's safe is a  platform that empowers individuals to make informed decisions about their safety by sharing real stories, accessing predictive crime data, and connecting with their community. 
